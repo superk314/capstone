@@ -1,0 +1,20 @@
+{
+  "features": [
+    "Pregnancies",
+    "Glucose",
+    "BloodPressure",
+    "SkinThickness",
+    "Insulin",
+    "BMI",
+    "DiabetesPedigreeFunction",
+    "Age",
+    "InsulinGlucoseRatio",
+    "HighRisk"
+  ],
+  "target": "Outcome",
+  "test_size": 0.2,
+  "random_state": 42,
+  "smote": true,
+  "scaler": "StandardScaler",
+  "best_model": "XGBoost"
+}

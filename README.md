@@ -14,7 +14,7 @@
 
 **Karen R. Mangilit**
 Postgraduate Diploma in Artificial Intelligence and Machine Learning
-Asian Institute of Management · Class of 2025 (Cohort 3)
+Asian Institute of Management · June 2025
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karenmangilit-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/karenmangilit)
 

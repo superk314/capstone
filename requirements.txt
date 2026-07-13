@@ -1,0 +1,48 @@
+# =============================================================================
+# requirements.txt
+# Capstone Project: Predicting Diabetes Likelihood in Patients
+# Author : Karen R. Mangilit
+# Course : Postgraduate Diploma in Artificial Intelligence and Machine Learning
+# School : Asian Institute of Management · Class of 2025 (Cohort 3)
+# GitHub : https://github.com/superk314/capstone
+# =============================================================================
+# Install all dependencies with:
+#   pip install -r requirements.txt
+# =============================================================================
+
+
+# ── Core Data Science ─────────────────────────────────────────────────────────
+pandas>=1.5.3          # Data loading, manipulation, and DataFrames
+numpy>=1.23.5          # Numerical operations and array handling
+
+
+# ── Visualisation ─────────────────────────────────────────────────────────────
+matplotlib>=3.6.3      # Base plotting engine for all charts
+seaborn>=0.12.2        # Statistical visualisation — heatmaps, violin plots
+
+
+# ── Machine Learning ──────────────────────────────────────────────────────────
+scikit-learn>=1.2.2    # Preprocessing, models, metrics, PCA, PDP, ICE plots
+xgboost>=1.7.6         # XGBoost classifier — best-performing model
+
+
+# ── Class Imbalance ───────────────────────────────────────────────────────────
+imbalanced-learn>=0.10.1  # SMOTE oversampling for training set balancing
+
+
+# ── Explainability ────────────────────────────────────────────────────────────
+shap>=0.41.0           # SHAP values for global and local model explainability
+
+
+# ── Model Persistence ─────────────────────────────────────────────────────────
+joblib>=1.2.0          # Saving and loading trained model .pkl files
+
+
+# ── Statistical Analysis ──────────────────────────────────────────────────────
+scipy>=1.10.1          # Statistical functions used in EDA and feature analysis
+
+
+# ── Notebook Environment ──────────────────────────────────────────────────────
+jupyter>=1.0.0         # Running .ipynb notebook files
+ipykernel>=6.21.0      # Jupyter notebook kernel
+nbconvert>=7.2.0       # Converting notebooks to other formats

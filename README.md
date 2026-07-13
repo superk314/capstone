@@ -102,12 +102,11 @@ diabetes-prediction/
 │   └── model_metrics.csv                  # Full metrics comparison
 │
 ├── 📁 src/
-│   ├── preprocess.py                      # Data cleaning & feature engineering
-│   └── train.py                           # Model training pipeline
+│  
 │
-├── 📁 presentations/
-│   ├── technical_presentation.pptx        # Technical deck (for peers)
-│   └── business_presentation.pptx         # Business deck (for executives)
+├── 📁 presentation decks/
+│   ├── Karen Mangilit - Technical Presentation.pdf      # Technical deck (for peers)
+│   └── Karen Mangilit - Business Presentation.pdf   # Business deck (for executives)
 │
 ├── requirements.txt                       # Python dependencies
 ├── LICENSE                                # MIT License
